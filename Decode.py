@@ -1,4 +1,4 @@
-from Team10Code import loadSheet  # gets our excel loading function from other file
+from Code import loadSheet  # gets our excel loading function from other file
 table = {}
 
 # checkChar reads the binary output and checks the table for corresponding char. Writes text to a new text file

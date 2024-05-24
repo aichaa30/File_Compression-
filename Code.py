@@ -1,4 +1,3 @@
-
 from openpyxl import load_workbook
 
 bin_to_char = {}
