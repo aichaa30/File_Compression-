@@ -29,9 +29,9 @@ Character-to-Binary Mapping
 
 
 The character-to-binary mapping is defined in the Table.xlsx file. Here is a sample of the mapping:
-Character	Binary
-a	         00000
-e	         00001
+
+<img width="161" alt="Untitled" src="https://github.com/aichaa30/File_Compression-/assets/114168218/4ba6334c-5997-405b-97b4-5b082c25207e">
+
 
 Encoding Text
 
