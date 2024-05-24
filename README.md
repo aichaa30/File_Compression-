@@ -49,15 +49,14 @@ This will read the BinOutput.txt file, decompress its content based on the mappi
 
 How It Works
 
-
 Loading the Character Mapping:
 
-The loadSheet function reads the Table.xlsx file and creates dictionaries for character-to-binary and binary-to-character mappings.
+- The loadSheet function reads the Table.xlsx file and creates dictionaries for character-to-binary and binary-to-character mappings.
 
 Encoding Process:
 
-The Code function reads the input text file (list.txt), converts each character or word to its corresponding binary representation, and writes the result to BinOutput.txt.
+- The Code function reads the input text file (list.txt), converts each character or word to its corresponding binary representation, and writes the result to BinOutput.txt.
 
 Decoding Process:
 
-The Decode function reads the binary data from BinOutput.txt, converts each binary sequence back to its corresponding character or word, and writes the result to TextOutput.txt.
+- The Decode function reads the binary data from BinOutput.txt, converts each binary sequence back to its corresponding character or word, and writes the result to TextOutput.txt.
