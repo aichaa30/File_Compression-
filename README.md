@@ -8,15 +8,23 @@ This project implements a simple file compression algorithm using a predefined m
 The project consists of two main scripts:
 
 code.py: Compresses a text file into a binary format based on the provided character-to-binary mapping.
+
 decode.py: Decompresses the binary file back into the original text using the binary-to-character mapping.
 
 Project Files
+
 code.py: Script to compress text files.
+
 decode.py: Script to decompress binary files back to text.
+
 Table.xlsx: Excel file containing the character-to-binary mappings.
+
 list.txt: Sample text file to be compressed.
+
 BinOutput.txt: Output file containing the compressed binary data.
+
 TextOutput.txt: Output file containing the decompressed text.
+
 
 Character-to-Binary Mapping
 The character-to-binary mapping is defined in the Table.xlsx file. Here is a sample of the mapping:
