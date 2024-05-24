@@ -22,7 +22,7 @@ Project Files
 
 - BinOutput.txt: Output file containing the compressed binary data.
 
--TextOutput.txt: Output file containing the decompressed text.
+- TextOutput.txt: Output file containing the decompressed text.
 
 
 Character-to-Binary Mapping
