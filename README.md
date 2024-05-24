@@ -1,6 +1,5 @@
 File Compression Project
 
-
 Overview
 
 This project implements a simple file compression algorithm using a predefined mapping of characters to binary numbers. 
@@ -8,7 +7,6 @@ This project implements a simple file compression algorithm using a predefined m
 The project consists of two main scripts:
 
 code.py: Compresses a text file into a binary format based on the provided character-to-binary mapping.
-
 decode.py: Decompresses the binary file back into the original text using the binary-to-character mapping.
 
 Project Files
